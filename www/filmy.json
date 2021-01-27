@@ -1,0 +1,604 @@
+{
+   "filmy":{
+      {
+         "tytul":"Zielona mila",
+         "rezyser":"Frank Darabont",
+         "gatunek":"Dramat",
+         "kraj":"USA",
+         "dataPremiery":"6.12.1999",
+         "opis":"Emerytowany strażnik więzienny opowiada przyjaciółce o niezwykłym mężczyźnie, którego skazano na śmierć za zabójstwo dwóch 9-letnich dziewczynek.",
+         "plakat":"https://fwcdn.pl/fpo/08/62/862/7517878.6.jpg",
+         "glownaPostac":"Paul Edgecomb",
+         "obsada":[
+            {
+               "postac":"Paul Edgecomb",
+               "aktor":"Tom Hanks",
+               "zdjecie":"https://fwcdn.pl/ppo/01/24/124/449666.1.jpg",
+               "znanyZ":[
+                  {
+                     "film":"Forrest Gump (1994)"
+                  },
+                  {
+                     "film":"Szeregowiec Ryan (1998)"
+                  },
+                  {
+                     "film":"Kod da Vinci (2006)"
+                  }
+               ]
+            },
+            {
+               "postac":"Brutus Howell",
+               "aktor":"David Morse",
+               "zdjecie":"https://fwcdn.pl/onph/49468/2011/28674.6.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Negocjator (1998)"
+                  },
+                  {
+                     "film":"16 przecznic (2006)"
+                  },
+                  {
+                     "film":"Twierdza (1996)"
+                  }
+               ]
+            },
+            {
+               "postac":"John Coffey",
+               "aktor":"Michael Clarke Duncan",
+               "zdjecie":"https://fwcdn.pl/ppo/75/46/7546/450906.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Król Skorpion (2002)"
+                  },
+                  {
+                     "film":"Daredevil (2003)"
+                  },
+                  {
+                     "film":"Sin City - Miasto grzechu (2005)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Forrest Gump",
+         "rezyser":"Robert Zemeckis",
+         "gatunek":"Dramat / Komedia",
+         "kraj":"USA",
+         "dataPremiery":"23.06.1994",
+         "opis":"Historia życia Forresta, chłopca o niskim ilorazie inteligencji z niedowładem kończyn, który staje się miliarderem i bohaterem wojny w Wietnamie.",
+         "plakat":"https://1.allegroimg.com/s1024/0c3541/8694caf94197af77a620226ff371",
+         "glownaPostac":"Forrest Gump",
+         "obsada":[
+            {
+               "postac":"Forrest Gump",
+               "aktor":"Tom Hanks",
+               "zdjecie":"https://fwcdn.pl/ppo/01/24/124/449666.1.jpg",
+               "znanyZ":[
+                  {
+                     "film":"Zielona mila (1999)"
+                  },
+                  {
+                     "film":"Szeregowiec Ryan (1998)"
+                  },
+                  {
+                     "film":"Kod da Vinci (2006)"
+                  }
+               ]
+            },
+            {
+               "postac":"Jenny Curran",
+               "aktor":"Robin Wright V",
+               "zdjecie":"https://fwcdn.pl/ppo/52/16/5216/450052.3.jpg",
+               "nanyZ":[
+                  {
+                     "film":"House of Cards (2013)"
+                  },
+                  {
+                     "film":"Niezniszczalny (2000)"
+                  },
+                  {
+                     "film":"Dziewczyna z tatuażem (2011)"
+                  }
+               ]
+            },
+            {
+               "postac":"Pani Gump",
+               "aktor":"Sally Field",
+               "zdjecie":"https://fwcdn.pl/ppo/80/57/8057/450120.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Pani Doubtfire (1993)"
+                  },
+                  {
+                     "film":"Legalna blondynka 2 (2003)"
+                  },
+                  {
+                     "film":"Lincoln (2012)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Matrix",
+         "rezyser":"Lilly Wachowski",
+         "gatunek":"Akcja / Sci-Fi",
+         "kraj":"Australia / USA",
+         "dataPremiery":"24.03.1999",
+         "opis":"Haker komputerowy Neo dowiaduje się od tajemniczych rebeliantów, że świat, w którym żyje, jest tylko obrazem przesyłanym do jego mózgu przez roboty.",
+         "plakat":"https://fwcdn.pl/fpo/06/28/628/7685907.3.jpg",
+         "glownaPostac":"Neo",
+         "obsada":[
+            {
+               "postac":"Neo",
+               "aktor":"Keanu Reeves",
+               "zdjecie":"https://static.wikia.nocookie.net/matrix/images/5/57/Keanu-reeves-.jpeg/revision/latest/top-crop/width/360/height/450?cb=20200709213927",
+               "nanyZ":[
+                  {
+                     "film":"Adwokat diabła (1997)"
+                  },
+                  {
+                     "film":"Constantine (2005)"
+                  },
+                  {
+                     "film":"Matrix Reaktywacja (2003)"
+                  }
+               ]
+            },
+            {
+               "postac":"Morfeusz",
+               "aktor":"Laurence Fishburne",
+               "zdjecie":"https://fwcdn.pl/ppo/00/36/36/450252.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Matrix Reaktywacja (2003)"
+                  },
+                  {
+                     "film":"Hannibal (2013)"
+                  },
+                  {
+                     "film":"Przemytnik (2018)"
+                  }
+               ]
+            },
+            {
+               "postac":"Trinity",
+               "aktor":"Carrie-Anne Moss",
+               "zdjecie":"https://fwcdn.pl/ppo/03/15/315/450189.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Matrix Reaktywacja (2003)"
+                  },
+                  {
+                     "film":"Czekolada (2000)"
+                  },
+                  {
+                     "film":"Memento (2000)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Avatar",
+         "rezyser":"James Cameron",
+         "gatunek":"Sci-Fi",
+         "kraj":"USA / Wielka Brytania",
+         "dataPremiery":"10.12.2009",
+         "opis":"Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc.",
+         "plakat":"https://i1.fdbimg.pl/kg3q3l/1012x1500_l5b3zd.jpg",
+         "glownaPostac":"Jake Sully",
+         "obsada":[
+            {
+               "postac":"Jake Sully",
+               "aktor":"Sam Worthington",
+               "zdjecie":"https://fwcdn.pl/ppo/36/74/53674/450625.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Przełęcz ocalonych (2016)"
+                  },
+                  {
+                     "film":"Terminator: Ocalenie (2009)"
+                  },
+                  {
+                     "film":"Starcie tytanów (2010)"
+                  }
+               ]
+            },
+            {
+               "postac":"Neytiri",
+               "aktor":"Zoe Saldana",
+               "zdjecie":"https://fwcdn.pl/ppo/05/59/40559/450082.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Strażnicy Galaktyki (2014)"
+                  },
+                  {
+                     "film":"W ciemność. Star Trek (2013)"
+                  },
+                  {
+                     "film":"Colombiana (2011)"
+                  }
+               ]
+            },
+            {
+               "postac":"Dr Grace Augustine",
+               "aktor":"Sigourney Weaver",
+               "zdjecie":"https://fwcdn.pl/ppo/01/16/116/450081.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Obcy - 8. pasażer Nostromo (1979)"
+                  },
+                  {
+                     "film":"Obcy - decydujące starcie (1986)"
+                  },
+                  {
+                     "film":"Pogromcy duchów (1984)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Shrek",
+         "rezyser":"Andrew Adamson / Vicky Jenson",
+         "gatunek":"Animacja / Familijny / Komedia",
+         "kraj":"USA",
+         "dataPremiery":"22.04.2001",
+         "opis":"By odzyskać swój dom, brzydki ogr z gadatliwym osłem wyruszają uwolnić piękną księżniczkę.",
+         "plakat":"https://fwcdn.pl/fpo/95/09/9509/7919220.6.jpg",
+         "glownaPostac":"Shrek",
+         "obsada":[
+            {
+               "postac":"Shrek",
+               "aktor":"Mike Myers",
+               "zdjecie":"https://fwcdn.pl/ppo/03/24/324/452284.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Bękarty wojny (2009)"
+                  },
+                  {
+                     "film":"Austin Powers i Złoty Członek (2002)"
+                  },
+                  {
+                     "film":"Bohemian Rhapsody (2018)"
+                  }
+               ]
+            },
+            {
+               "postac":"Osioł",
+               "aktor":"Eddie Murphy",
+               "zdjecie":"https://fwcdn.pl/ppo/00/72/72/450147.2.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Książę w Nowym Jorku (1988)"
+                  },
+                  {
+                     "film":"Gruby i chudszy (1996)"
+                  },
+                  {
+                     "film":"Gliniarz z Beverly Hills (1984)"
+                  }
+               ]
+            },
+            {
+               "postac":"Księżniczka Fiona",
+               "aktor":"Cameron Diaz",
+               "zdjecie":"https://fwcdn.pl/ppo/01/63/163/450748.2.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Maska (1994)"
+                  },
+                  {
+                     "film":"Holiday (2006)"
+                  },
+                  {
+                     "film":"Bez mojej zgody (2009)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Pulp Fiction",
+         "rezyser":"Quentin Tarantino",
+         "gatunek":"Gangsterski",
+         "kraj":"USA",
+         "dataPremiery":"12.05.1994",
+         "opis":"Przemoc i odkupienie w opowieści o dwóch płatnych mordercach pracujących na zlecenie mafii, żonie gangstera, bokserze i parze okradającej ludzi w restauracji.",
+         "plakat":"https://fwcdn.pl/fpo/08/62/862/7517878.6.jpg",
+         "glownaPostac":"Vincent Vega, Jules Winnfield",
+         "obsada":[
+            {
+               "postac":"Vincent Vega",
+               "aktor":"John Travolta",
+               "zdjecie":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/John_Travolta%2C_London%2C_2013_%28derivate%29.jpg/167px-John_Travolta%2C_London%2C_2013_%28derivate%29.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Grease (1978)"
+                  },
+                  {
+                     "film":"I kto to mówi (1989)"
+                  },
+                  {
+                     "film":"Bez twarzy (1997)"
+                  }
+               ]
+            },
+            {
+               "postac":"Jules Winnfield",
+               "aktor":"Samuel L. Jackson",
+               "zdjecie":"https://fwcdn.pl/ppo/00/53/53/449869.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"1408 (2007)"
+                  },
+                  {
+                     "film":"Nienawistna ósemka (2015)"
+                  },
+                  {
+                     "film":"Jumper (2008)"
+                  }
+               ]
+            },
+            {
+               "postac":"Mia Wallace",
+               "aktor":"Uma Thurman",
+               "zdjecie":"https://fwcdn.pl/ppo/01/13/113/450044.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Kill Bill (2003)"
+                  },
+                  {
+                     "film":"Batman i Robin (1997)"
+                  },
+                  {
+                     "film":"Gattaca - Szok przyszłości (1997)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Szósty zmysł",
+         "rezyser":"M. Night Shyamalan",
+         "gatunek":"Thriller",
+         "kraj":"USA",
+         "dataPremiery":"2.08.1999",
+         "opis":"Psycholog dziecięcy próbuje pomóc ośmioletniemu chłopcu widzącemu zmarłych poradzić sobie z tym niezwykłym darem.",
+         "plakat":"https://fwcdn.pl/fpo/08/25/825/7559549.6.jpg",
+         "glownaPostac":"Malcolm Crowe",
+         "obsada":[
+            {
+               "postac":"Malcolm Crowe",
+               "aktor":"Bruce Willis",
+               "zdjecie":"https://fwcdn.pl/ppo/01/17/117/450013.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Piąty element (1997)"
+                  },
+                  {
+                     "film":"Armageddon (1998)"
+                  },
+                  {
+                     "film":"Szklana pułapka (1988)"
+                  }
+               ]
+            },
+            {
+               "postac":"Cole Sear",
+               "aktor":"Haley Joel Osment",
+               "zdjecie":"https://fwcdn.pl/ppo/03/88/388/452029.2.jpg",
+               "nanyZ":[
+                  {
+                     "film":"A.I. Sztuczna inteligencja (2001)"
+                  },
+                  {
+                     "film":"Podaj dalej (2000)"
+                  },
+                  {
+                     "film":"Forrest Gump (1994)"
+                  }
+               ]
+            },
+            {
+               "postac":"Lynn Sear",
+               "aktor":"Toni Collette",
+               "zdjecie":"https://fwcdn.pl/ppo/31/77/3177/450137.2.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Był sobie chłopiec (2002)"
+                  },
+                  {
+                     "film":"Nauka spadania (2014)"
+                  },
+                  {
+                     "film":"Dziedzictwo. Hereditary (2018)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Piękny umysł",
+         "rezyser":"Ron Howard",
+         "gatunek":"Biograficzny / Dramat",
+         "kraj":"USA",
+         "dataPremiery":"13.12.2001",
+         "opis":"Geniusz matematyczny John Nash za wszelką cenę pragnie opracować teorię, dzięki której zostanie cenionym naukowcem. Przeszkodą staje się jego stopniowo rozwijająca choroba.",
+         "plakat":"https://i1.fdbimg.pl/ha7aa01/450x600_kd3apg.jpg",
+         "glownaPostac":"John Forbes Nash Jr.",
+         "obsada":[
+            {
+               "postac":"John Forbes Nash Jr.",
+               "aktor":"Russell Crowe",
+               "zdjecie":"https://fwcdn.pl/ppo/03/80/380/449722.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Gladiator (2000)"
+                  },
+                  {
+                     "film":"American Gangster (2007)"
+                  },
+                  {
+                     "film":"Robin Hood (2010)"
+                  }
+               ]
+            },
+            {
+               "postac":"Alicia Nash",
+               "aktor":"Jennifer Connelly",
+               "zdjecie":"https://fwcdn.pl/ppo/00/40/40040/450070.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Requiem dla snu (2000)"
+                  },
+                  {
+                     "film":"Krwawy diament (2006)"
+                  },
+                  {
+                     "film":"Dzień, w którym zatrzymała się Ziemia (2008)"
+                  }
+               ]
+            },
+            {
+               "postac":"William Parcher",
+               "aktor":"Ed Harris",
+               "zdjecie":"https://fwcdn.pl/ppo/00/45/45/449899.3.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Wróg u bram (2001)"
+                  },
+                  {
+                     "film":"Twierdza (1996)"
+                  },
+                  {
+                     "film":"Truman Show (1998)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Efekt motyla",
+         "rezyser":"J. Mackye Gruber / Eric Bress",
+         "gatunek":"Thriller / Sci-Fi",
+         "kraj":"Kanada / USA",
+         "dataPremiery":"22.01.2004",
+         "opis":"Evan, który potrafi podróżować w czasie, przekona się, że nawet najdrobniejsza zmiana w przeszłości ma kolosalny wpływ na teraźniejszość.",
+         "plakat":"https://fwcdn.pl/fpo/02/52/40252/7788918.6.jpg",
+         "glownaPostac":"Evan Treborn",
+         "obsada":[
+            {
+               "postac":"Evan Treborn",
+               "aktor":"Ashton Kutcher",
+               "zdjecie":"https://fwcdn.pl/ppo/16/15/31615/450616.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Co się zdarzyło w Las Vegas (2008)"
+                  },
+                  {
+                     "film":"Różowe lata 70. (1998)"
+                  },
+                  {
+                     "film":"Pan i Pani Kiler (2010)"
+                  }
+               ]
+            },
+            {
+               "postac":"Kayleigh Miller",
+               "aktor":"Amy Smart",
+               "zdjecie":"https://fwcdn.pl/ppo/59/58/5958/450947.1.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Adrenalina (2006)"
+                  },
+                  {
+                     "film":"Lustra (2008)"
+                  },
+                  {
+                     "film":"Zostańmy przyjaciółmi (2005)"
+                  }
+               ]
+            },
+            {
+               "postac":"George Miller",
+               "aktor":"Eric Stoltz",
+               "zdjecie":"https://tv-fanatic-res.cloudinary.com/iu/s--YRCAH6M5--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371140828/eric-stoltz-picture.png",
+               "nanyZ":[
+                  {
+                     "film":"Pulp Fiction (1994)"
+                  },
+                  {
+                     "film":"Maska (1985)"
+                  },
+                  {
+                     "film":"Anakonda (1997)"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "tytul":"Lśnienie",
+         "rezyser":"Stanley Kubrick",
+         "gatunek":"Horror",
+         "kraj":"USA / Wielka Brytania",
+         "dataPremiery":"23.05.1980",
+         "opis":"Jack podejmuje pracę stróża odciętego od świata hotelu Overlook. Wkrótce idylla zamienia się w koszmar.",
+         "plakat":"https://fwcdn.pl/fpo/10/20/1020/7183753.3.jpg",
+         "glownaPostac":"Jack Torrance",
+         "obsada":[
+            {
+               "postac":"Jack Torrance",
+               "aktor":"Jack Nicholson",
+               "zdjecie":"https://fwcdn.pl/ppo/00/75/75/449648.3.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Lot nad kukułczym gniazdem (1975)"
+                  },
+                  {
+                     "film":"Infiltracja (2006)"
+                  },
+                  {
+                     "film":"Choć goni nas czas (2007)"
+                  }
+               ]
+            },
+            {
+               "postac":"Wendy Torrance",
+               "aktor":"Shelley Duvall",
+               "zdjecie":"https://fwcdn.pl/ppo/46/01/4601/452294.2.jpg",
+               "nanyZ":[
+                  {
+                     "film":"Annie Hall (1977)"
+                  },
+                  {
+                     "film":"Bandyci czasu (1981)"
+                  },
+                  {
+                     "film":"Trzy kobiety (1977)"
+                  }
+               ]
+            },
+            {
+               "postac":"Dick Hallorann",
+               "aktor":"Scatman Crothers",
+               "zdjecie":"https://images.findagrave.com/photos250/photos/2017/356/4516_45de3be7-0d54-478f-9b08-78df17ad2570.jpeg",
+               "nanyZ":[
+                  {
+                     "film":"Lot nad kukułczym gniazdem (1975)"
+                  },
+                  {
+                     "film":"Strefa mroku (1983)"
+                  },
+                  {
+                     "film":"Bronco Billy (1980)"
+                  }
+               ]
+            }
+         ]
+      }
+   }
+}
